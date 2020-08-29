@@ -10,8 +10,6 @@ The second example (in the `Excel-3`folder) is very loosely based on the example
 
 To be complete, both examples lack of the save button, but you can easily implement it, as an exercise, by following the indications in the book.
 
-To launch a demonstration, simply launch `python Excel-1/main.py` or `python Excel-3/main.py` from the root folder of the repository.
+To launch a demonstration, first install the needed modules with `pip install --user -f requirements.txt` and then simply launch `python Excel-1/main.py` or `python Excel-3/main.py` from the root folder of the repository.
 
 For the [online demonstration](https://q37.info/s/kk9xhnnf), once in *Repli.it*, click the `run` button, and then select the demonstration you want to launch. If the QR code is not displayed properly, hit the refresh button top left of the corresponding frame.
-
-
