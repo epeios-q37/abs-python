@@ -83,9 +83,10 @@ def reading(dom):
 
 	dom.remove_class("output", "hidden")
 	prevCounty = ""
-
-	dom.set_content('output', 'Opening workbook...')
-	wb = openpyxl.load_workbook(dom.get_content("set"),read_only=True)
+	
+	filename = dom.get_content("set")
+	dom.set_content('output', 'Opening '{}'...'.format(filename))
+	wb = openpyxl.load_workbook(filename,read_only=True)
 
 	sheet = wb['Population by Census Tract']
 
