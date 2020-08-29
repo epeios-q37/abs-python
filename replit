@@ -32,5 +32,5 @@ do
 
   export FILE=${DEMOS[$(($(ord $DEMO) - 97))]}
 
-  [ -f $FILE/main.py ] && CONT=false && python $FILE/main.py
+  [ -f $FILE/main.py ] && CONT=false && python $FILE/main.py && echo "IF AN ERROR MESSAGE IS DISPLAYED INSTEAD OF THE QR CODE\NPLEASE CLICK THE RELOAD BUTTON TOP LEFT OF THE CORRESPONDING FRAME!" 
 done
