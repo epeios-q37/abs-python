@@ -1,2 +1,2 @@
 language = "bash"
-run = "pip3 install -r requirements.txt && ATK=REPLit bash replit"
+run = "pip3 install --user -r requirements.txt && ATK=REPLit bash replit"
