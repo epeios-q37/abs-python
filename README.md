@@ -1,4 +1,4 @@
-# Automate boring stuff with Python
+# Automate boring stuff with Python, and a GUI
 
 [![Run on Repl.it](https://repl.it/badge/github/epeios-q37/atlas-python)](https://q37.info/s/kk9xhnnf)
 
