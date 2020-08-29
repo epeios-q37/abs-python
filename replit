@@ -32,5 +32,6 @@ do
 
   export FILE=${DEMOS[$(($(ord $DEMO) - 97))]}
 
-  [ -f $FILE/main.py ] && CONT=false && python $FILE/main.py && echo "IF AN ERROR MESSAGE IS DISPLAYED INSTEAD OF THE QR CODE\NPLEASE CLICK THE RELOAD BUTTON TOP LEFT OF THE CORRESPONDING FRAME!" 
+  echo -e "\n\n------------------------------------------------------------------------\n| IF AN ERROR MESSAGE IS DISPLAYED INSTEAD OF THE QR CODE,             |\n| PLEASE CLICK THE REFRESH BUTTON TOP LEFT OF THE CORRESPONDING FRAME! |\n------------------------------------------------------------------------\n" 
+  [ -f $FILE/main.py ] && CONT=false && python $FILE/main.py
 done
