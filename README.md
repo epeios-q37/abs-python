@@ -1,8 +1,8 @@
-# Automate boring stuff with Python, and a GUI
+# Automate boring stuff with Python programs with a GUI
 
 [![Run on Repl.it](https://repl.it/badge/github/epeios-q37/atlas-python)](https://q37.info/s/kk9xhnnf)
 
-This project is inspired by https://automatetheboringstuff.com/, a book by Al Sweigart, more precisely from its [chapter 13](https://automatetheboringstuff.com/2e/chapter13/), but with the addition of a GUI with the help of the Python version of the [*Atlas* toolkit](https://atlastk.org).
+This project is inspired by https://automatetheboringstuff.com/, a book by Al Sweigart, more precisely from its [chapter 13](https://automatetheboringstuff.com/2e/chapter13/), but with the addition of a graphical user interface with the help of the Python version of the [*Atlas* toolkit](https://atlastk.org).
 
 The first example  (in the `Excel-1` folder) displays an Excel spreadsheet of data from the 2010 US Census in a more conveniently way. By selecting a state in the left bottom frame, you have access to a summary of its counties in the right bottom frame, and by selecting one of this county frame, you have access to the tracts in the top frame as they are stored in the Excel spreadsheet.
 
