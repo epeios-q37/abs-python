@@ -23,6 +23,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
+"""
+Based on the book "Automate the Boring Stuff with Python"
+by Al Sweigart (https://automatetheboringstuff.com/). 
+"""
+
 import os, sys
 
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
