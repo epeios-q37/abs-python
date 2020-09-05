@@ -1,6 +1,6 @@
 # Automate boring stuff with Python programs with a GUI
 
-[![Run on Repl.it](https://repl.it/badge/github/epeios-q37/atlas-python)](https://q37.info/s/kk9xhnnf)
+[![Run on Repl.it](https://q37.info/s/kpm7xhfm.png)](https://q37.info/s/kk9xhnnf)
 
 This project is inspired by https://automatetheboringstuff.com/, a book by Al Sweigart, more precisely from its [chapter 13](https://automatetheboringstuff.com/2e/chapter13/), but with the addition of a graphical user interface with the help of the Python version of the [*Atlas* toolkit](https://atlastk.org).
 
