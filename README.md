@@ -1,6 +1,6 @@
 # Automate boring stuff with Python programs with a GUI
 
-[![Run on Repl.it](https://q37.info/s/kpm7xhfm.png)](https://q37.info/s/kk9xhnnf)
+[![Run on Repl.it](https://q37.info/s/kpm7xhfm.png)](https://q37.info/s/kk9xhnnf)  [![About online demonstrations](https://img.shields.io/badge/about-online%20demonstrations-informational)](https://q37.info/s/sssznrb4)
 
 This project is inspired by https://automatetheboringstuff.com/, a book by Al Sweigart, more precisely from its [chapter 13](https://automatetheboringstuff.com/2e/chapter13/), but with the addition of a graphical user interface with the help of the Python version of the [*Atlas* toolkit](https://atlastk.org).
 
@@ -12,4 +12,4 @@ To be complete, both examples lack of the save button, but you can easily implem
 
 To launch a demonstration, first install the needed modules with `pip install --user -r requirements.txt` and then simply launch `python Excel-1/main.py` or `python Excel-3/main.py` from the root folder of the repository.
 
-For the [online demonstration](https://q37.info/s/kk9xhnnf), once in *Repli.it*, click the `run` button, and then select the demonstration you want to launch. If the QR code is not displayed properly, hit the refresh button top left of the corresponding frame.
+For the [online demonstration](https://q37.info/s/kk9xhnnf), once on *Repl.it*, click on the green `run` button, choose the demonstration you want to launch, and click the then displayed URL (or copy/paste it in a web browser).
